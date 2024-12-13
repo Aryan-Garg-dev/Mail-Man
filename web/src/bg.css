@@ -1,0 +1,54 @@
+.fabric {
+  background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
+}
+
+.diamond {
+  background-color: #030f1a;
+  background-image: url("https://www.transparenttextures.com/patterns/white-diamond-dark.png");
+}
+
+.swirl {
+  background-color: #00010d;
+  background-image: url("https://www.transparenttextures.com/patterns/swirl.png");
+}
+
+.shirt {
+  background-color: #00010d;
+  background-image: url("https://www.transparenttextures.com/patterns/dirty-old-black-shirt.png");
+}
+
+.criss-cross {
+  background-color: #00010d;
+  background-image: url("https://www.transparenttextures.com/patterns/crissxcross.png");
+}
+
+.violet {
+  background: rgb(50,51,97);
+  background: linear-gradient(344deg, rgba(50,51,97,1) 0%, rgba(0,0,0,1) 100%);
+}
+
+.blue {
+  background: rgb(25,34,61);
+  background: linear-gradient(344deg, rgba(25,34,61,1) 0%, rgba(0,0,0,1) 100%);
+}
+
+
+.dark {
+  background: rgb(68,88,134);
+  background: radial-gradient(circle, rgba(68,88,134,1) 0%, rgba(0,21,43,1) 100%);
+}
+
+.darker {
+  background: rgb(35,52,112);
+  background: radial-gradient(circle, rgba(35,52,112,1) 0%, rgba(0,0,0,1) 100%);
+}
+
+.toast {
+  background: rgb(3,218,223);
+  background: radial-gradient(circle, rgba(3,218,223,1) 0%, rgba(1,39,75,1) 100%);
+}
+
+.alert {
+background: rgb(195,63,73);
+background: linear-gradient(90deg, rgba(195,63,73,1) 0%, rgba(186,93,113,1) 50%, rgba(195,63,73,1) 100%);
+}
