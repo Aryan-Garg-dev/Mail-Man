@@ -76,7 +76,7 @@ function Demo() {
   )
 }
 
-function cn(...classes: ClassValue[]){
+export function cn(...classes: ClassValue[]){
   return twMerge(clsx(classes))
 }
 

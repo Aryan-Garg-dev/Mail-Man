@@ -1,13 +1,13 @@
 
-import LoginDialog from './components/LoginDialog';
-import "./bg.css"
+import { Toaster } from 'sonner'
 
 const App = () => {
   return (
-    <div className='w-full h-full min-h-screen fabric bg-gradient-to-r from-purple-600 via-black to-blue-600'>
-      <LoginDialog />
-      Hello World
-    </div>
+    <main>
+      <Toaster position='bottom-center' closeButton richColors>
+
+      </Toaster>
+    </main>
   )
 }
 export default App
