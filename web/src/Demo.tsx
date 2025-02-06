@@ -102,7 +102,7 @@ const ReactEmailEditor = ({ hidden, setValue, value }: ReactEmailEditorProps)=>{
     });
   };
 
-  const onDesignLoad = (data) => {
+  const onDesignLoad = (data: any) => {
     console.log('onDesignLoad', data);
   };
 
